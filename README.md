@@ -10,4 +10,4 @@ You should be aware that there are certain things that skill will not take respo
 
  
 <h3> Jurisdiction</h3>
-The information provided by us through the Skill is not an offer to sell a product or service or to solicit you to buy a product or service. Your use of the Skill will be governed by the laws of India
+<p></p>The information provided by us through the Skill is not an offer to sell a product or service or to solicit you to buy a product or service. 
